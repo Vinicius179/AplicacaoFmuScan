@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202596107817",
+    "project_id": "aplicacaofmuscan",
+    "storage_bucket": "aplicacaofmuscan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202596107817:android:507e49d1c41da811b47e38",
+        "android_client_info": {
+          "package_name": "com.example.aplicacaofmuscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202596107817-090j3euudopg7anit9sp8chvt2jlijne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg6jQ91_82DpJwoouk0G0IWplbur9J0b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202596107817-090j3euudopg7anit9sp8chvt2jlijne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
